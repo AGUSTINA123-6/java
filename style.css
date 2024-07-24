@@ -1,0 +1,17 @@
+body {
+    background: url(imagen/mar.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    color: rgb(223, 100, 100);
+    font-family: chiller;
+    font-size: 40px;
+}
+
+td {
+    cursor: url("imagen/11zon_images (1).cur"), auto;
+}
+
